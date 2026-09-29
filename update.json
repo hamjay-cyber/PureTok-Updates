@@ -8,6 +8,6 @@
     "Retained secure SHA-256 update verification.",
     "General stability and maintenance improvements."
   ],
-  "download_url": "https://github.com/hamjay-cyber/PureTok-Updates/releases/download/v1.0.3/PureTok_Setup_1.0.3.exe",
+  "download_url": "https://github.com/hamjay-cyber/PureTok-Updates/releases/download/v1.0.3/PureTok_Setup_1.0.3_fixed.exe",
   "sha256": "7bed03c2b071b2024d0722c95aeb7711c574ae4d8f6cf410a058e79c4b6fc44a"
 }
