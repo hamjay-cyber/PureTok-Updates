@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": [
-    "Connected PureTok's built-in updater to GitHub Releases.",
-    "Improved update manifest handling.",
-    "Updated application and installer version information to 1.0.1.",
-    "General stability and maintenance improvements."
+    "Added SHA-256 verification for downloaded updates.",
+    "Improved update integrity checks.",
+    "Added protection against corrupted or modified installers.",
+    "General stability improvements."
   ],
-  "download_url": "https://github.com/hamjay-cyber/PureTok-Updates/releases/download/v1.0.1/PureTok_Setup_1.0.1.exe",
-  "sha256": "ce4f60d59450b4157a3cae9319022c7d3bae3bcc30c6c69c82446b532199926c"
+  "download_url": "https://github.com/hamjay-cyber/PureTok-Updates/releases/download/v1.0.2/PureTok_Setup_1.0.2.exe",
+  "sha256": "c37797921712aa56b5c48637037c561f8e3f984d586dfe08d065480100626931"
 }
