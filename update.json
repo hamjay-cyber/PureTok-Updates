@@ -1,11 +1,13 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "notes": [
-    "Added SHA-256 verification for downloaded updates.",
-    "Improved update integrity checks.",
-    "Added protection against corrupted or modified installers.",
-    "General stability improvements."
+    "PureTok is now fully free.",
+    "Removed Free/Pro feature restrictions.",
+    "Unlocked all supported video, audio, and thumbnail conversions.",
+    "Removed activation requirements.",
+    "Retained secure SHA-256 update verification.",
+    "General stability and maintenance improvements."
   ],
-  "download_url": "https://github.com/hamjay-cyber/PureTok-Updates/releases/download/v1.0.2/PureTok_Setup_1.0.2.exe",
-  "sha256": "c37797921712aa56b5c48637037c561f8e3f984d586dfe08d065480100626931"
+  "download_url": "https://github.com/hamjay-cyber/PureTok-Updates/releases/download/v1.0.3/PureTok_Setup_1.0.3.exe",
+  "sha256": "52437a205f9b1cc82ddb14d3a385979f802e5da65d0862eed839b732cbbeacff"
 }
